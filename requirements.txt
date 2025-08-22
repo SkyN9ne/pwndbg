@@ -1,7 +1,7 @@
 attrs==21.4.0
 capstone==4.0.2
 enum34==1.1.10
-future==0.18.2
+future==1.0.0
 iniconfig==1.1.1
 isort==5.10.1
 packaging==21.3
